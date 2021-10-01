@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.superpromo{
+    position: static;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Posicionamento da imagem de fundo*/
+#background-img{
+    position: absolute;
+    width: fit-content;
+    display: block;
+    justify-content: center;
+    width: 100%;
+}
+
+/*Posicionamento e edição do título*/
+#title{
+    position: relative;
+    display:flex;
+    left: 50%;
+    font-family: 'Fredoka One', cursive, sans-serif;
+    text-align:center;
+    color: red;
+}
+
+#user-email{
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+
+}
+
+#email-button{
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+
+}
+
+#ou{
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+
+}
+
+#conect-button{
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+
+}
